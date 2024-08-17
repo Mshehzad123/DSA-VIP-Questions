@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ValidParentheses",
+            "request": "launch",
+            "mainClass": "ArrayQuestion.ValidParentheses",
+            "projectName": "Dsa For Placement_ae77d2e7"
+        },
+        {
+            "type": "java",
+            "name": "AnagramCheck",
+            "request": "launch",
+            "mainClass": "ArrayQuestion.AnagramCheck",
+            "projectName": "Dsa For Placement_ae77d2e7"
+        },
+        {
+            "type": "java",
+            "name": "PalindromStringS",
+            "request": "launch",
+            "mainClass": "ArrayQuestion.PalindromStringS",
+            "projectName": "Dsa For Placement_ae77d2e7"
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ChocolateDistribution",
+            "request": "launch",
+            "mainClass": "ArrayQuestion.ChocolateDistribution",
+            "projectName": "Dsa For Placement_ae77d2e7"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateContains",
+            "request": "launch",
+            "mainClass": "ArrayQuestion.DuplicateContains",
+            "projectName": "Dsa For Placement_ae77d2e7"
+        },
+        {
+            "type": "java",
+            "name": "MaxAndMin",
+            "request": "launch",
+            "mainClass": "ArrayQuestion.MaxAndMin",
+            "projectName": "Dsa For Placement_ae77d2e7"
+        },
+        {
+            "type": "java",
+            "name": "MaxSumSubArray",
+            "request": "launch",
+            "mainClass": "ArrayQuestion.MaxSumSubArray",
+            "projectName": "Dsa For Placement_ae77d2e7"
+        },
+        {
+            "type": "java",
+            "name": "PalindromString",
+            "request": "launch",
+            "mainClass": "ArrayQuestion.PalindromString",
+            "projectName": "Dsa For Placement_ae77d2e7"
+        },
+        {
+            "type": "java",
+            "name": "ReverseOrder",
+            "request": "launch",
+            "mainClass": "ArrayQuestion.ReverseOrder",
+            "projectName": "Dsa For Placement_ae77d2e7"
+        },
+        {
+            "type": "java",
+            "name": "SearchInRotatedSortArray",
+            "request": "launch",
+            "mainClass": "ArrayQuestion.SearchInRotatedSortArray",
+            "projectName": "Dsa For Placement_ae77d2e7"
+        }
+    ]
+}

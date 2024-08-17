@@ -1,7 +1,5 @@
 package ArrayQuestion;
-
 import java.util.HashSet;
-
 public class DuplicateContains {
     public static void main(String[] args) {
         int arr[] = {1,2,3,4,5,1};
